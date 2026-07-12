@@ -15,5 +15,5 @@ Main App/data.db
 
 # Logs
 *.log
-#Groq
-api.env
+#Gro
+.env
